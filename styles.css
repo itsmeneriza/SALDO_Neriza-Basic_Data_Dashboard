@@ -1,0 +1,38 @@
+body {
+    background-color: beige;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #1b1407;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+    text-align: center;
+}
+
+.metric {
+    background-color: #fff;
+    border: 2px solid #1b1407;
+    margin: 20px;
+    padding: 20px;
+    width: 200px;
+    display: inline-block;
+}
+
+button {
+    background-color: #1b1407;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #555;
+}
